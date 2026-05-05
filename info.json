@@ -1,0 +1,20 @@
+{
+    "name": "SharpView",
+    "description": "SharpView is a .NET/C# port of PowerView that enables Active Directory enumeration and LDAP-based recon without relying on PowerShell",
+    "version": "0.0.1",
+    "uuid": "489e5efa-ee44-4707-bc58-4092067eeb13",
+    "command": "sharpview",
+    "type": ".net",
+    "repository": "https://github.com/nukeratarmory/SharpView",
+    "metadata": {
+        "author": {
+            "name": "tevora-threat",
+            "original_repository": "https://github.com/tevora-threat/SharpView"
+        },
+        "platform": [
+            "windows"
+        ],
+        "architecture": "any",
+        "net_version": "4.5"
+    }
+}
