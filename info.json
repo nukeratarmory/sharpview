@@ -1,7 +1,6 @@
 {
     "name": "SharpView",
     "version": "0.0.1",
-    "uuid": "489e5efa-ee44-4707-bc58-4092067eeb13",
     "command": "sharpview",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharpView",
